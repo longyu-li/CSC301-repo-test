@@ -1,0 +1,5 @@
+this is a test!
+
+csc301 is a really cool course, you learn a lot of very useful skills! make sure to use good git practices!
+
+go check out my website www.ethanlam.ca
